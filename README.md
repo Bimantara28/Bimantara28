@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone, I'm Bimantara!!!</h1>
 <h3 align="center">Ini Hanya Untuk Senang - Senang, Jika Tidak Suka SHUT YOUR FUCKING MOUTH!!!</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![Bimantara28](img/github-header-image.png)
 
 - 🌱 I’m currently learning **React, Next.js, and TypeScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
