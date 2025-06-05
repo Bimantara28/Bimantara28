@@ -11,10 +11,16 @@
 
 ---
 
+#### Badge
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://www.instagram.com/a_alfenda?igsh=MWN4NDJhY3ZmdGp3cA==" alt="instagram" height="30" width="40" /></a>
   <a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
